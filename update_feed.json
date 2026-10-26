@@ -1,0 +1,33 @@
+{
+  "product": "SLIMEO CV",
+  "current_version": "23.0",
+  "latest_version": "23.0",
+  "status": "Current release",
+  "upcoming": [
+    {
+      "title": "Next SLIMEO CV update",
+      "eta": "Date not announced",
+      "description": "Upcoming features and release timing will appear here when the publisher updates the shared release feed."
+    }
+  ],
+  "releases": [
+    {
+      "version": "23.0",
+      "date": "2026-10-26",
+      "title": "Update Center preview",
+      "notes": [
+        "Added an Updates dashboard for announcements and release notes.",
+        "Added an optional remote JSON feed check for future shared announcements.",
+        "Remote sync requires the publisher to host this feed at a stable HTTPS URL."
+      ]
+    },
+    {
+      "version": "22.0",
+      "date": "2026-10-26",
+      "title": "Anime Galaxy visible preview",
+      "notes": [
+        "Added the Anime Galaxy artwork asset to the preview theme."
+      ]
+    }
+  ]
+}
